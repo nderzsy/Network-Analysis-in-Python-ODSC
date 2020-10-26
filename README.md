@@ -1,5 +1,6 @@
-# ODSC-West 2020 
-"Network/Graph Analysis in Python" repository of 90 minutes training session held at ODSC West 2020.
+# "Exploring the Interconnected World: Network/Graph Analysis in Python" 
+
+Repository of 90 minutes training session held at ODSC West 2020
 
 **Abstract**
 
@@ -15,8 +16,6 @@ Lesson 2: Analyze and visualize networks. Extract information about real public 
 2.	We will use Jupyter Notebooks throughout the session: http://jupyter.org/install
 3.	A couple of days prior the session the used Jupyter Notebook and data files will be downloadable from this GitHub repository: https://github.com/nderzsy/Network-Analysis-in-Python---Tutorial-ODSCWest20.git
 
-**Events**
+**Event**
 
-https://odsc.com/training/portfolio/general-training-session-networkgraph-analysis-python
-https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68283
-
+https://odsc.com/speakers/exploring-the-interconnected-world-network-graph-analysis-in-python/
