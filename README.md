@@ -3,7 +3,12 @@
 
 **Abstract**
 
-Networks, also know as graphs, are one of the most crucial data structures in our increasingly intertwined world. Social friendship networks, the world-wide web, financial systems, infrastructure (power grid, streets), etc. are all network structures. Knowing how to analyze the underlying network topology of interconnected systems can provide an invaluable skill in anyone's toolbox. This training will provide a hands-on guide on how to approach a network analysis project from scratch and end-to-end: how to generate, manipulate, analyze and visualize graph structures that will help you gain insight about relationships between elements in your data.
+Networks, also known as graphs are one of the most crucial data structures in our increasingly intertwined world. Social friendship networks, the world-wide-web, financial systems, infrastructure (power grid, streets), etc. are all network structures. Knowing how to analyze the underlying network topology of interconnected systems can provide an invaluable skill in anyone's toolbox. This tutorial will provide a hands-on guide on how to approach a network analysis project from scratch and end-to-end: how to generate, manipulate, analyze and visualize graph structures that will help you gain insight about relationships between elements in your data.
+
+**Session Outline**
+Lesson 1: Generate & manipulate graph structures. Learn how to generate basic network types, and the most often encountered network models in real data. Next, discover the most informative network measures to understand network structures and behaviors.
+
+Lesson 2: Analyze and visualize networks. Extract information about real public social network data by building, analyzing and visualizing it to gain understanding about its structure and behaviors.
 
 **Prerequisites**
 1.	Installation of NetworkX Python library: https://pypi.python.org/pypi/networkx/2.1
