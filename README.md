@@ -13,9 +13,9 @@ Lesson 1: Generate & manipulate graph structures. Learn how to generate basic ne
 Lesson 2: Analyze and visualize networks. Extract information about real public social network data by building, analyzing and visualizing it to gain understanding about its structure and behaviors.
 
 **Prerequisites**
-1.	Installation of NetworkX Python library: https://pypi.python.org/pypi/networkx/2.1
-2.	We will use Jupyter Notebooks throughout the session: http://jupyter.org/install
-3.	A couple of days prior the session the used Jupyter Notebook and data files will be downloadable from this GitHub repository: https://github.com/nderzsy/Network-Analysis-in-Python---Tutorial-ODSCWest20.git
+1. Installation of NetworkX Python library: https://pypi.org/project/networkx/2.5/
+2. We will use Jupyter Notebooks throughout the session: http://jupyter.org/install
+3. A couple of days prior the session the used Jupyter Notebook and data files will be downloadable from this GitHub repository: https://github.com/nderzsy/Network-Analysis-in-Python---Tutorial-ODSCWest20.git
 
 **Event**
 
