@@ -1,6 +1,6 @@
 # Exploring the Interconnected World: Network/Graph Analysis in Python
 
-Repository of 90 minutes training session held at ODSC West 2020
+Repository of 90 minutes training session held at ODSC West 2020 & ODSC East 2021.
 
 **Abstract**
 
